@@ -15,11 +15,11 @@ Since graduation, I have continued to work on personal projects and expand my ed
 
 
 ### Game Development
-- I started learning Rust to get an introduction to systems programming and game engines. Taking the ultimate rust crash course 1 and 2 with Nathan Stocks on Udemy where I built a Space Invaders clone and a simple crab squish game by following his tutorial and am learning on how to add my own flair to them 
+- I started learning Rust to get an introduction to systems programming and game engines. Taking the ultimate rust crash course 1 and 2 with Nathan Stocks on Udemy where I built a Space Invaders clone and a simple crab squish game by following his tutorial and am learning on how to add my own flair to them these are under my [Rust-Crash-Course repo](https://github.com/rybaier/Rust-crash-course) 
 
 - I most recently started taking a course focused on the Unreal Engine 5 with hopes to break into the game develpoment world currently working with Blueprint and working towards C++
 
-#### Education and Course Certificates 
+#### Completed Education and Course Certificates 
 - General Assembly Software Engineering Immersive (420hr) 
 - Udemy Courses
     - The Complete React Native + Hooks
