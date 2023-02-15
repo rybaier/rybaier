@@ -1,12 +1,12 @@
 # Hello
 
-I am looking to break into the software industry. With proven experience from my education in being able to absorb new languages in a functional and effective manner to write clean and effective code, I hope to find a position where mentorship and growth are available.
-From my resume, you will see that I have a wide variety of experience and skills, and the one thing I have learned the most is that all skills translate in some way to every position one chooses to work in. I recently graduated from my Software Engineering Immersive program at, General Assembly on March 16th, 2022.
+With proven experience from my education in being able to absorb new languages in a functional and effective manner to write clean and effective code, I hope to find a position where mentorship and growth are available.
+I recently graduated from my Software Engineering Immersive program at, General Assembly in 2022.
 
 ##### Skills and Languages worked with
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,express,postgres,py,django,go,rust,git,github&perline=4)](https://skillicons.dev)
 
-Since graduation, I have continued to work on personal projects and expand my education while working as a Seasonal River Guide over the summer and a Freelance Software Developer. While I do not have multiple years of experience in the technology industry. I bring a tenacity for growth and learning that has been focused on developing software engineering skills over the last 12 months. That focus has developed into a passion for the capabilities of software development and what it can achieve and I look forward to seeing how far I can go.
+Since graduation, I have continued to work on personal projects and expand my education while working as a Seasonal River Guide over the summer and a Freelance Software Developer. I bring a tenacity for growth and learning that has been focused on developing software engineering skills over the last 12 months. That focus has developed into a passion for the capabilities of software development and what it can achieve and I look forward to seeing how far I can go.
 
 I have been focused mainly on Object Oriented Programming over the last 6 months
 
