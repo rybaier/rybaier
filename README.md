@@ -1,19 +1,21 @@
 # Hello
-
+##### ~ Activily looking for new position ~
 With proven experience from my education in being able to absorb new languages in a functional and effective manner to write clean and effective code, I hope to find a position where mentorship and growth are available.
 I recently graduated from my Software Engineering Immersive program at General Assembly in 2022.
+
 
 ##### Skills and Languages worked with
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,express,postgres,py,django,go,rust,git,github&perline=4)](https://skillicons.dev)
 
 Since graduation, I have continued to work on personal projects and expand my education while working as a Seasonal River Guide over the summer and a Freelance Software Developer. I bring a tenacity for growth and learning that has been focused on developing software engineering skills over the last 12 months. That focus has developed into a passion for the capabilities of software development and what it can achieve.
 
-I have been focused mainly on Object Oriented Programming over the last 6 months
+## Currently working on
+- Learning Dart, and C++ for different projects I am working on privately
 
 ## Favorite Personal Projects 
 - [Place Your Bet!](https://rybaier.github.io/Place-Your-Bets/) A simple Web Browser game called Place Your Bets based on the horse racing gambling industry built with JavaScript, HTML, CSS [repo](https://github.com/rybaier/Place-Your-Bets)
 - [Lord of the Rings Toilet Time](https://lotr-toilet-time.netlify.app/) A REACT application with API calls. Which is a simple web application that allows one to waste time playing a Movie quotes Quiz and discover information about random characters in Tolkien’s literary universe [repo](https://github.com/rybaier/LOTR-TT-React-API)
-- [PrEvac App](https://github.com/rybaier/PrEvac) (In development) A Mobile Evacuation Assistance App to help individuals, families and friends reduce the stress and have a plan when the need to evacuate their home arises. I have continued to work on this since graduation and plan to deploy to app store in Early 2023
+- [PrEvac App](https://github.com/rybaier/PrEvac) A Mobile Evacuation Assistance App to help individuals, families and friends reduce the stress and have a plan when the need to evacuate their home arises. I have continued to work on this since graduation. 
 
 
 ### Game Development
