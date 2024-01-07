@@ -14,7 +14,7 @@ Since graduation, I have continued to work on personal projects and expand my ed
 
 ##  Personal Projects 
 
-- An Evacuation Assistance App to help individuals, families and friends reduce the stress and have a plan when the need to evacuate their home arises. The idea stemmed from a capstone project of mine and it has been tredesigned and is being rebuilt from the ground up with small dev team privately.
+- An Evacuation Assistance App to help individuals, families and friends reduce the stress and have a plan when the need to evacuate their home arises. The idea stemmed from a capstone project of mine; which has been redesigned and is being rebuilt from the ground up with small dev team privately.
 
 ### Game Development
 - I most recently started taking a course focused on the Unreal Engine 5 with hopes to break into the game develpoment world currently working with Blueprint and working towards C++
