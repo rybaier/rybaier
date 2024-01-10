@@ -17,7 +17,7 @@ Since graduation, I have continued to work on personal projects and expand my ed
 - An Evacuation Assistance App to help individuals, families and friends reduce the stress and have a plan when the need to evacuate their home arises. The idea stemmed from a capstone project of mine; which has been redesigned and is being rebuilt from the ground up with small dev team privately.
 
 ### Game Development
-- I most recently started taking a course focused on the Unreal Engine 5 with hopes to break into the game develpoment world currently working with Blueprint and working towards C++
+- I am currently focused on the Unreal Engine 5 with the mission to break into the game develpoment world primarily working with the Unreal Engine Blueprint and with C++ and how they interact together
 
 - I started learning Rust to get an introduction to systems programming and game engines. Taking the ultimate rust crash course 1 and 2 with Nathan Stocks on Udemy where I built a Space Invaders clone and a simple crab squish game by following his tutorial and am learning on how to add my own flair to them these are under my [Rust-Crash-Course repo](https://github.com/rybaier/Rust-crash-course) 
 
