@@ -1,13 +1,12 @@
 # Hello
 ##### ~ Activily looking for new position ~
-With proven experience from my education in being able to absorb new languages in a functional and effective manner to write clean and effective code, I hope to find a position where mentorship and growth are available.
-I recently graduated from a Software Engineering Immersive program at General Assembly in 2022.
+I am actively seeking a company that fosters a culture centered on mentorship and personal growth. Intrigued by challenging problems, I bring a unique perspective on achieving desired results and value strong team-based skills. My unwavering dedication is directed towards the continuous expansion of my knowledge and experience as a software developer. I bring a tenacity for growth and learning that has been focused on developing software engineering skills over the last 12 months. That focus has developed into a passion for the capabilities of software development and what it can achieve. I have continued to work on personal projects and expand my education while working as a Seasonal River Guide over the summer and a Freelance Software Developer. 
+
 
 
 ##### Skills and Languages worked with
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,express,postgres,py,django,go,rust,git,github&perline=4)](https://skillicons.dev)
 
-Since graduation, I have continued to work on personal projects and expand my education while working as a Seasonal River Guide over the summer and a Freelance Software Developer. I bring a tenacity for growth and learning that has been focused on developing software engineering skills over the last 12 months. That focus has developed into a passion for the capabilities of software development and what it can achieve.
 
 ## Currently working on
 - Learning Dart, and C++ for different projects I am working on privately
