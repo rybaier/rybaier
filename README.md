@@ -11,7 +11,7 @@ I am actively seeking a company that fosters a culture centered on mentorship an
 ## Currently working on
 - Learning Dart, and C++ for different projects I am working on privately
 
-##  Personal Projects 
+##  Current Projects 
 
 - An Evacuation Assistance App to help individuals, families and friends reduce the stress and have a plan when the need to evacuate their home arises. The idea stemmed from a capstone project of mine; which has been redesigned and is being rebuilt from the ground up with small dev team privately.
 
