@@ -5,11 +5,12 @@ I am actively seeking a company that fosters a culture centered on mentorship an
 
 
 ##### Skills and Languages worked with
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,express,postgres,py,django,go,rust,git,github&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,express,postgres,py,django,go,rust,git,github,unreal,nodejs,figma&perline=4)](https://skillicons.dev)
 
 
-## Currently working on
-- Learning Dart, and C++ for different projects I am working on privately
+## Currently working at
+- A civil service starup 
+- as a Technology Consultant for a Construction Company
 
 ##  Current Projects 
 
