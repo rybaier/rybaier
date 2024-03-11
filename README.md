@@ -9,9 +9,11 @@ I am actively seeking a company that fosters a culture centered on mentorship an
 
 
 ## Currently working at
-- A civil service starup 
+- A civil service startup 
 - as a Technology Consultant for a Construction Company
 
 ##  Current Projects 
 
-- An Evacuation Assistance App to help individuals, families and friends reduce the stress and have a plan when the need to evacuate their home arises. The idea stemmed from a capstone project of mine; which has been redesigned and is being rebuilt from the ground up with small dev team privately.
+- An Evacuation Assistance App to help individuals, families and friends reduce the stress and have a plan when the need to evacuate their home arises. Working with a small dev team as a civil service startup
+
+  
