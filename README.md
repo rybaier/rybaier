@@ -1,19 +1,14 @@
 # Hello
 ##### ~ Activily looking for new position ~
-I am actively seeking a company that fosters a culture centered on mentorship and personal growth. Intrigued by challenging problems, I bring a unique perspective on achieving desired results and value strong team-based skills. My unwavering dedication is directed towards the continuous expansion of my knowledge and experience as a software developer. I bring a tenacity for growth and learning that has been focused on developing software engineering skills. That focus has developed into a passion for the capabilities of software development and what it can achieve. I've honed my skills through both work and personal projects while balancing roles as a Seasonal River Guide and a Freelance Software Developer.  
+Seeking a company that values mentorship and personal growth. With a unique approach to problem-solving, a commitment to team collaboration, and a passion for software development, there's a strong focus on expanding knowledge and skills continuously. Experience has been honed through work and personal projects while balancing roles as a Seasonal River Guide and a Freelance Software Developer.  
 
 
-
-##### Skills and Languages worked with
+##### Skills and Languages 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,express,postgres,py,django,go,rust,git,github,unreal,nodejs,figma&perline=4)](https://skillicons.dev)
 
 
-## Currently working at
-- A civil service startup 
-- as a Technology Consultant for a Construction Company
-
 ##  Current Projects 
 
-- An Evacuation Assistance App to help individuals, families and friends reduce the stress and have a plan when the need to evacuate their home arises. Working with a small dev team as a civil service startup
+- working with a small dev team at a civil service startup focused on home evacuations
 
-  
+   
