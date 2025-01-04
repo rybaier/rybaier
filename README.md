@@ -1,6 +1,6 @@
 # Hello
-##### ~ Activily looking for new position ~
-Seeking a company that values mentorship and personal growth. With a unique approach to problem-solving, a commitment to team collaboration, and a passion for software development, there's a strong focus on expanding knowledge and skills continuously. Experience has been honed through work and personal projects while balancing roles as a Seasonal River Guide and a Freelance Software Developer.  
+
+Freelance Software Developer who values mentorship and personal growth. With a unique approach to problem-solving, a commitment to team collaboration, and a passion for software development, there's a strong focus on expanding knowledge and skills continuously. 
 
 
 ##### Skills and Languages 
