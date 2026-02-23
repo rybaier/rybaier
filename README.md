@@ -1,14 +1,18 @@
-# Hello
+# Hi, I'm Ryan
 
-Freelance Software Developer who values mentorship and personal growth. With a unique approach to problem-solving, a commitment to team collaboration, and a passion for software development, there's a strong focus on expanding knowledge and skills continuously. 
+Mobile and full-stack engineer specializing in React Native and the Expo ecosystem. I build production apps with TypeScript, Firebase, and Node.js — focused on clean architecture and great developer tooling.
 
+### What I work on
 
-##### Skills and Languages 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,ts,express,postgres,py,django,go,rust,git,github,unreal,nodejs,figma&perline=4)](https://skillicons.dev)
+- **React Native / Expo** — production mobile apps, custom config plugins, native module integration
+- **Full-stack JS/TS** — Node.js APIs, PostgreSQL, Firebase services
+- **Developer tooling** — Expo config plugins, Obsidian plugins, build automation
 
+### Tech
 
-##  Current Projects 
+[![My Skills](https://skillicons.dev/icons?i=react,ts,firebase,nodejs,postgres,express,js,git&perline=8)](https://skillicons.dev)
 
-- working with a small dev team at a civil service startup focused on home evacuations
+### Open Source
 
-   
+- [**rnfirebase-custom-plugin-for-expo**](https://github.com/rybaier/rnfirebase-custom-plugin-for-expo) — Custom Expo config plugin for React Native Firebase on iOS
+- [**react-native-firebase-authentication**](https://github.com/rybaier/react-native-firebase-authentication) — Firebase Auth with the modular SDK in React Native / Expo
