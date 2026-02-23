@@ -10,7 +10,7 @@ Mobile and full-stack engineer specializing in React Native and the Expo ecosyst
 
 ### Tech
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,firebase,nodejs,postgres,express,js,git&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,firebase,nodejs,postgres,express,js,html,css,py,git&perline=11)](https://skillicons.dev)
 
 ### Open Source
 
